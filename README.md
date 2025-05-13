@@ -1,1 +1,1 @@
-# sit-week2-data-tidy-team-peru
+# Data Tidy Week 2 - Team Peru
